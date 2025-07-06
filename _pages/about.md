@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>#104</p>
-    <p>1085 Ave du Dr Penfield</p>
+    <p>#104</p>  
+    <p>1085 Ave du Dr Penfield</p>  
     <p>Montréal, Canada, H3A 1A7</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
