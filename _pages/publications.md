@@ -9,6 +9,13 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+# Upcoming
+Brown, J., & Clayards, M. (submitted). Disentangling acoustic and social biases in creaky voice perception: The effects of f0 and face gender on creakiness ratings [submitted manuscript]. https://doi.org/10.31234/osf.io/5j42b_v1
+
+Brown, J., & Sonderegger, M. (in press). A Sociophonetic Study of Creaky Voice Across Language, Gender and Age in Canadian English-French Bilinguals [accepted manuscript]. Journal of Phonetics. http://dx.doi.org/10.2139/ssrn.4960807
+
+Brown, J. & Sonderegger, M. (accepted with minor revisions). Une étude sociophonétique de la voix craquée en français laurentien [accepted manuscript]. Publication des actes du colloque Les français d’ici 2024 – 9e colloque, Université de Moncton, Shippagan, Canada.
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
