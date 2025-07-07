@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: The research I’m passionate about and the path that brought me here.
+subtitle: Linguistics PhD Student
 
 profile:
   align: right
