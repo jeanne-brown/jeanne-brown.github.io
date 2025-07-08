@@ -9,7 +9,10 @@ nav_order: 6
 
 ### Course lecturer
 #### Department of Linguistics, McGill University
-- Intro to Speech Science (LING210), Sept 2025 – Dec 2025
+- <div style="display: flex; justify-content: space-between;">
+    <span><strong>Intro to Speech Science (LING210)</strong></span>
+    <span>Fall 2025</span>
+  </div>
 
 ### Teaching assistant
 #### Department of Linguistics, McGill University
