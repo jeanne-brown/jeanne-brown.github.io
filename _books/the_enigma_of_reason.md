@@ -8,7 +8,7 @@ isbn: 9780674237827 # use ISBN to fetch cover (if no `olid` is provided, dashes 
 categories: philosophy psychology science nature biology
 tags:
 buy_link: 
-started: 2024-06-01
+started: 2025-06-01
 finished:
 released: 2019
 stars: 
