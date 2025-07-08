@@ -19,5 +19,6 @@ images:
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/12.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
+
 Most of my non-academic life revolves around my dog, Juno. I enjoy going on scenic walks, visiting ice cream shops around the city, decompressing with cozy video games, and watching cooking shows (especially competitive formats).
 
