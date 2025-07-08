@@ -19,5 +19,4 @@ images:
 </swiper-container>
 
 
-Most of my non-academic life revolves around my dog, Juno. I enjoy going on scenic walks, visiting ice cream shops around the city, decompressing with cozy video games, and watching cooking shows (especially competitive formats).
-
+Most of my non-academic life revolves around my dog, Juno. I enjoy scenic walks, sampling ice cream around the city, cozy video games, competitive cooking shows, and the occasional wander through a contemporary art museum.
