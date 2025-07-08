@@ -1,11 +1,10 @@
 ---
-layout: beyond
-title: beyond academia
+layout: page
 permalink: /beyond/
-subtitle: 
-
- 
-
+title: beyond academia
+description:
+nav: true
+nav_order: 7
 ---
 
 ### hi there
