@@ -16,22 +16,71 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Department of Linguistics, McGill University",
+      "location": "Montreal, Canada",
+      "url": "https://www.mcgill.ca/linguistics/",
+      "area": "Sociophonetics",
+      "studyType": "PhD",
+      "startDate": "2022-09-01",
+      "endDate": "2027-08-31",
+      "score": "",
+      "courses": ""
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
+      "name": "Department of Linguistics, McGill University",
+      "position": "Course Lecturer",
+      "url": "",
+      "startDate": "2025-09-01",
+      "endDate": "2025-12-31",
+      "summary": "",
+      "highlights": ["Bi-weekly lectures", "Planning course materials", "Grading and feedback", "Office hours", "Meetings with TA"]
+    },
+    {
+      "name": "Department of Linguistics, McGill University",
+      "position": "LabPhon20 Organizing Committee RA",
+      "url": "",
+      "startDate": "2025-05-15",
+      "endDate": "2026-06-15",
+      "summary": "",
+      "highlights": ["Budget planning and tracking", "Communication with venue, housing, conference attendees", "Translation", "Management of student volunteers"]
+    },
+    {
+      "name": "Department of Linguistics, McGill University",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2023-09-01",
+      "endDate": "2025-04-30",
+      "summary": "Courses: Phonetics 3 (LING330), Intro to speech science (LING210), Language acquisition 1 (LING355), Intro to linguistics (LING201)",
+      "highlights": ["Teaching conferences", "Grading", "Meetings with professor", "Invigilation", "Guest lecture"]
+    },
+    {
+      "name": "Department of Linguistics, University of Ottawa",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2019-09-01",
+      "endDate": "2020-04-30",
+      "summary": "Courses: Acoustique de la parole (LIN4726), Intro à la phonologie (LIN2720), Théorie syntaxique (LIN3710)",
+      "highlights": ["Teaching labs/discussion groups", "Grading", "Meetings with professor", "Invigilation", "Lab demos"]
+    },
+    {
+      "name": "School of Communication Sciences and Disorders, Dalhousie University, Dr. Patricia Cleave",
+      "position": "Research Coordinator",
+      "url": "",
+      "startDate": "2021-04-01",
+      "endDate": "2023-04-01",
+      "summary": "Project: The Discourse Skills of Monolingual and Bilingual School-aged Children",
+      "highlights": ["Overseeing student RA work", "Data management", "Transcription", "Online recruitment", "Testing and scoring children"]
+    },
   ],
   "volunteer": [
     {
@@ -43,19 +92,6 @@
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
