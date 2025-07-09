@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-beyond-academia",
-          title: "Beyond academia",
-          description: "From data to downtime",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/beyond/";
-          },
         },{id: "nav-blog",
           title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
+          },
+        },{id: "nav-beyond-academia",
+          title: "Beyond academia",
+          description: "From data to downtime",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/beyond/";
           },
         },{id: "post-a-post-with-image-galleries",
         
