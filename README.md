@@ -19,3 +19,4 @@ You can reach me via my [website contact info](https://jeanne-brown.github.io).
 - [al-folio](https://github.com/alshedivat/al-folio) – for the theme ([MIT License](https://github.com/alshedivat/al-folio/blob/main/LICENSE))
 - [GitHub Pages](https://pages.github.com/)
 - [Swiper.js](https://swiperjs.com/) – for the image sliders
+
