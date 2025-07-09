@@ -12,9 +12,9 @@ images:
 <style>
 .swiper-slide img {
   width: 100%;
-  height: 300px;
+  height: 150px;
   object-fit: cover;
-  border-radius: 8px;
+  border-radius: 4px;
 }
 </style>
 
