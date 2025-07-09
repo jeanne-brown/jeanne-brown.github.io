@@ -44,12 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/beyond/";
           },
-        },{id: "books-the-enigma-of-reason",
-          title: 'The Enigma of Reason',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_enigma_of_reason/";
-            },},{
+        },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
