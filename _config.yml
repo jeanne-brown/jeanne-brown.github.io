@@ -179,6 +179,7 @@ exclude:
   - _pages/books.md
   - _pages/news.md
   - _news
+  - _projects
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
