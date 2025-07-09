@@ -14,14 +14,8 @@ images:
   href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"
 />
 
-swiper-container {
-  width: 300px;
-  height: 400px;
-  display: block;
-  margin: auto;
-}
 
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" width="300px" height="400px" display="block" margin="auto">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/beyond_1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/beyond_2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/beyond_3.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
