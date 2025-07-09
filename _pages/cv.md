@@ -12,7 +12,7 @@ toc:
 
 ## My PDF
 
-<iframe src="/assets/pdf/JEANNE_BROWN_CV_30-06-2025.pdf" width="100%" height="600px">
+<iframe src="https://jeanne-brown.github.io/assets/pdf/JEANNE_BROWN_CV_30-06-2025.pdf" width="100%" height="600px">
   This browser does not support PDFs. 
-  <a href="/assets/pdf/JEANNE_BROWN_CV_30-06-2025.pdf">Download the file here.</a>
+  <a href="https://jeanne-brown.github.io/assets/pdf/JEANNE_BROWN_CV_30-06-2025.pdf">Download the file here.</a>
 </iframe>
