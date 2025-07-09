@@ -2,33 +2,19 @@
   - firstname: ["Marc", "M."]
     url: https://aix1.uottawa.ca/~mbrunell/
 
-"Thị Thu Hà":
-  - firstname: ["Phạm", "P."]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Hà":
+  - firstname: ["Phạm", "Pham", "P.", "P. T. T.", "Phạm Thị Thu"]
+    url: 
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Tạ":
+  - firstname: ["Tấn", "T.", "Tan", "Thành Tấn", "T. T."]
+    url: https://sites.google.com/view/tathanhtan/home
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Sonderegger":
+  - firstname: ["Morgan", "M."]
+    url: https://people.linguistics.mcgill.ca/~morgan/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Clayards":
+  - firstname: ["Meghan", "M."]
+    url: https://www.mcgill.ca/linguistics/meghan-clayards-sheher
+    
