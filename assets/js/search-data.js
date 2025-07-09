@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "nav-beyond-academia",
-          title: "beyond academia",
+          title: "Beyond Academia",
           description: "",
           section: "Navigation",
           handler: () => {
