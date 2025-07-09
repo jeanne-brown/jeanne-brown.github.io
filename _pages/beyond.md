@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /beyond/
-title: Beyond Academia
+title: Beyond academia
 description:
 nav: true
 nav_order: 7
