@@ -10,7 +10,7 @@ images:
 ---
 
 swiper-container {
-  width: 600px;
+  width: 300px;
   height: 400px;
   display: block;
   margin: auto;
