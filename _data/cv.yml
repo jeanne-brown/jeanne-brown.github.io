@@ -73,7 +73,7 @@
 
 - title: Projects
   type: time_table
-  contents:
+  contents: 
     - title: <a href="https://osf.io/4ghbn/">"A sociophonetic study of creaky voice across language, gender and age in Canadian English-French bilinguals"</a>
       year: 2022-2025
       description: "This paper examines the acoustic correlates of creaky voice across language, gender and year of birth to investigate 1) the reliability of cross-linguistic differences in voice quality, 2) the direction and extent of gender differences with respect to creaky voice, and 3) the existence of an ongoing sound change targeting voice quality. Spontaneous speech from 49 Canadian English-French bilingual speakers was collected from publicly available online data sources. This corpus was processed and a range of acoustic measures of voice quality extracted using an automated pipeline with manual checks. Results do not show strong nor consistent evidence for cross-linguistic differences in creak. Regarding gender, men’s voices are unequivocally creakier, indicated by more unreliable f0 tracks, lower H1*-H2*, lower CPP and lower HNR < 500 Hz. As for age, results generally show more creak for older speakers, CPP and HNR < 500 Hz values increasing with YOB while other acoustic measures show no significant differences, suggesting that these effects are more likely due to vocal aging than sound change in progress. Contrary to popular perception and recent work claiming that young women are leaders in creaky voice use, this study finds that acoustic correlates of creak show the exact opposite: men’s voices are creakier and if anything, younger speakers are less creaky. Possible reasons for this discrepancy, reviewing recent perceptual work on creaky voice, are discussed."
