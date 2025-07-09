@@ -31,15 +31,15 @@
   contents:
     - title: Course Lecturer
       institution: Department of Linguistics, McGill University
-      year: Fall 2025
+      year: 09/2025-12/2025
       description:
         - Intro to speech science (LING210)
     - title: LabPhon20 organizing committee RA
       institution: Department of Linguistics, McGill University
-      year: May 2025 - June 2026
+      year: 05/2025-06/2026
     - title: Teaching Assistant
       institution: Department of Linguistics, McGill University
-      year: Fall 2023 - Winter 2025
+      year: 09/2023-04/2025
       description:
         - Phonetics 3 (LING330)
         - Intro to speech science (LING210)
@@ -47,61 +47,68 @@
         - Intro to linguistics (LING201)
     - title: Teaching Assistant
       institution: Department of Linguistics, University of Ottawa
-      year: Fall 2019 - Winter 2020
+      year: 09/2019-04/2020
       description:
         - Intro à la phonologie (LIN2720)
         - Acoustique de la parole (LIN4726)
         - Théorie syntaxique (LIN3710)  
     - title: Research Coordinator
       institution: School of Communication Sciences and Disorders, Dalhousie University, Dr. Patricia Cleave
-      year: April 2021 - April 2023
+      year: 04/2021-04/2023
       description:
         - "The Discourse Skills of Monolingual and Bilingual School-aged Children"
     - title: Freelance transcriber
       institution: Faculty of Education, Crandall University
-      year: October 2021 - April 2022
+      year: 10/2021-04/2022
     - title: Research Assistant
       institution: Department of Linguistics, University of Ottawa, Marc Brunelle
-      year: January 2019 - July 2021
+      year: 01/2019-07/2021
       description:
         - "Voicing and its transphonologization: the initiation and actuation of a sound change in Southeast Asia"
     - title: Research Assistant
       institution: Department of Linguistics, University of Ottawa, Stephen Levey
-      year: February 2019 - December 2021
+      year: 01/2019-12/2021
       description:
         - "Learning to Sound Like a Native Speaker"
 
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://osf.io/4ghbn/">A sociophonetic study of creaky voice across language, gender and age in Canadian English-French bilinguals</a>
+      year: 2022-2025
+      description: This paper examines the acoustic correlates of creaky voice across language, gender and year of birth to investigate 1) the reliability of cross-linguistic differences in voice quality, 2) the direction and extent of gender differences with respect to creaky voice, and 3) the existence of an ongoing sound change targeting voice quality. Spontaneous speech from 49 Canadian English-French bilingual speakers was collected from publicly available online data sources. This corpus was processed and a range of acoustic measures of voice quality extracted using an automated pipeline with manual checks. Results do not show strong nor consistent evidence for cross-linguistic differences in creak. Regarding gender, men’s voices are unequivocally creakier, indicated by more unreliable f0 tracks, lower H1*-H2*, lower CPP and lower HNR < 500 Hz. As for age, results generally show more creak for older speakers, CPP and HNR < 500 Hz values increasing with YOB while other acoustic measures show no significant differences, suggesting that these effects are more likely due to vocal aging than sound change in progress. Contrary to popular perception and recent work claiming that young women are leaders in creaky voice use, this study finds that acoustic correlates of creak show the exact opposite: men’s voices are creakier and if anything, younger speakers are less creaky. Possible reasons for this discrepancy, reviewing recent perceptual work on creaky voice, are discussed.
+    - title: <a href="https://osf.io/f45yh/">Disentangling acoustic and social biases in creaky voice perception: The effects of f0 and face gender on creakiness ratings</a>
+      year: 2022-2025
+      description: Creaky voice has historically been associated with men's speech (e.g., Henton & Bladon, 1988), supported by acoustic studies (e.g., Gittelson et al., 2021; Klatt & Klatt, 1990). Since around 2010, sociolinguistic work alongside public discourse has perpetuated greater creaky voice use by women instead, typically implementing impressionistic coding (e.g., Podesva, 2013; Yuasa, 2010). This study investigates whether this recent shift can be attributed to perceptual social and acoustic biases related to (perceived) speaker gender and pitch (f0), respectively. Using a matched-guise paradigm, 40 Canadian English listeners rated the perceived creakiness of the same modal and creaky voices—altered to have ambiguously gendered formants and median f0s (115, 135, 155 Hz)—paired with female and male faces. Bayesian regression analyses revealed strong effects of voice quality and moderate effects of f0: creaky and lower-f0 stimuli were rated as creakier. No overall effect of face gender was found. However, a weak interaction between face gender and f0 suggests a possible gender prototypicality bias: female faces were rated as slightly creakier at lower f0s and male faces at higher f0s. These findings show that neither acoustic nor gender-based biases alone can account for widespread reports of women-led creaky voice use.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Fonds de recherche du Québec – Société et Culture (FRQSC) Grant
+        - Linguistics Society of America Summer General Institute Fellowship
+        - Government of Québec – Graduate Mobility Award
+    - year: 2019
       items:
-        - Max Planck Medal
+        - University of Ottawa – Summa cum laude
+    - year: 2018
+      items:
+        - University of Ottawa – Edward Sapir Scholarship in Linguistics
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Phonetics
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Speech acoustics
+        - Speech perception
+    - title: Sociolinguistics
       items:
-        - Description 1.
-        - Description 2.
+        - Language variation and change
+        - Indexicality
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
