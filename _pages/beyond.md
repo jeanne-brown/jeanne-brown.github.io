@@ -9,15 +9,6 @@ images:
   slider: true
 ---
 
-  <style>
-    .swiper-slide img {
-      display: block;
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
-  </style>
-
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/beyond_1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/beyond_2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -31,5 +22,21 @@ images:
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/beyond_10.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
+<style>
+
+swiper-container {
+  width: 90%;
+  max-width: 600px;
+  height: 50vw; /* 50% of the viewport width */
+}
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+</style>
 
 Most of my non-academic life revolves around my dog, [Juno](https://www.instagram.com/juno_the_dawg/). I enjoy scenic walks, sampling ice cream around the city, cozy video games, competitive cooking shows, and the occasional wander through a contemporary art museum.
