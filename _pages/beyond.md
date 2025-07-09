@@ -9,6 +9,11 @@ images:
   slider: true
 ---
 
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"
+/>
+
 swiper-container {
   width: 300px;
   height: 400px;
