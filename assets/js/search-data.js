@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-cv",
-          title: "CV",
+          title: "cv",
           description: "Last updated 30 June 2025. Download PDF for full CV.",
           section: "Navigation",
           handler: () => {
