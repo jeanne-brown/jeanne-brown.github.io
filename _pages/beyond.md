@@ -4,7 +4,7 @@ permalink: /beyond/
 title: Beyond academia
 description: From data to downtime
 nav: true
-nav_order: 6
+nav_order: 10
 images:
   slider: true
 ---
