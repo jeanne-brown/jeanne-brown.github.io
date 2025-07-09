@@ -1,8 +1,11 @@
 "Journal of Phonetics":
   url: https://www.sciencedirect.com/journal/journal-of-phonetics
+  color: "#ff3636"
 
 "Phonetica":
   url: https://www.degruyterbrill.com/journal/key/phon/html
+  color: "#0076df"
 
 "Canadian Acoustics":
   url: https://jcaa.caa-aca.ca/
+  color: "#2698ba"
