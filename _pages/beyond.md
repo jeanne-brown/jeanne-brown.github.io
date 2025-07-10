@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /beyond/
-title: Beyond Academia
+title: Beyond academia
 description: From data to downtime
 nav: true
 nav_order: 10
