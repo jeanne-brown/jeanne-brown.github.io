@@ -34,7 +34,7 @@ images:
 {% endraw %}
 
 
-<swiper-container slides-per-view="3" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+<swiper-container slides-per-view="3" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" loop="true">
   <swiper-slide>
       {% include figure.liquid loading="eager" path="assets/img/beyond_1.jpg" class="img-fluid rounded z-depth-1" caption="Juno enjoying a sunny walk" %} 
   </swiper-slide>
