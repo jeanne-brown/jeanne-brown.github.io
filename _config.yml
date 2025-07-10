@@ -280,6 +280,7 @@ scholar:
     - volume
     - number
     - pages
+    - address
 
   source: /_bibliography/
   bibliography: papers.bib
