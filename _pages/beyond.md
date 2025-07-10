@@ -2,6 +2,7 @@
 layout: page
 permalink: /beyond/
 title: Beyond
+nav_title: Beyond academia
 description: From data to downtime
 nav: true
 nav_order: 10
@@ -9,7 +10,6 @@ images:
   slider: true
 ---
 
-# Beyond academia
 
 {% raw %}
 <style>
