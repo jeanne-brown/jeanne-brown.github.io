@@ -177,8 +177,6 @@ exclude:
   - _pages/repositories.md
   - _pages/dropdown.md
   - _pages/books.md
-  - _pages/news.md
-  - _news
   - _projects
   - _books
   - bin/
