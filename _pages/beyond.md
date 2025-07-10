@@ -14,7 +14,7 @@ images:
   swiper-container {
     display: block;
     width: 100%;
-    height: 600px;
+    height: 500px;
     margin: 2rem auto;
   }
 
