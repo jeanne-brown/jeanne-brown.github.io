@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Academic instruction
+description: Academic instruction and student support
 nav: true
 nav_order: 5
 ---
@@ -45,5 +45,12 @@ nav_order: 5
 - <div style="display: flex; justify-content: space-between;">
     <span><strong>Théorie syntaxique (LIN3710)</strong> – Professor Myriam Dali</span>
     <span>Fall 2019</span>
+  </div>
+
+### Tutor
+##### Private practice
+- <div style="display: flex; justify-content: space-between;">
+    <span><strong>Undergraduate linguistics</strong></span>
+    <span>10/2019–04/2021</span>
   </div>
   
