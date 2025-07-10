@@ -52,7 +52,7 @@ images:
       {% include figure.liquid loading="eager" path="assets/img/beyond_5.jpg" class="img-fluid rounded z-depth-1" caption="Juno @ Mont Royal" %}
   </swiper-slide>
   <swiper-slide>
-      {% include figure.liquid loading="eager" path="assets/img/beyond_6.jpg" class="img-fluid rounded z-depth-1" caption="View from SCSD" %}
+      {% include figure.liquid loading="eager" path="assets/img/beyond_6.jpg" class="img-fluid rounded z-depth-1" caption="View of McGill & Mont Royal from SCSD" %}
   </swiper-slide>
   <swiper-slide>
       {% include figure.liquid loading="eager" path="assets/img/beyond_7.jpg" class="img-fluid rounded z-depth-1" caption="Ca Lem (dark cherry-tiramisu)" %}
