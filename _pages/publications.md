@@ -15,6 +15,13 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+## Preprints
+{% bibliography --query @*[bibtex_show=true and type="preprint"] %}
+
+## Journal Articles
+{% bibliography --query @*[bibtex_show=true and type="journal"] %}
+
+## Conference Presentations
+{% bibliography --query @*[bibtex_show=true and type="conference"] %}
 
 </div>
