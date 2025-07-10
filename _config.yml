@@ -275,6 +275,11 @@ scholar:
 
   style: apa
   locale: en
+  bibtex_fields:
+    - journal
+    - volume
+    - number
+    - pages
 
   source: /_bibliography/
   bibliography: papers.bib
@@ -291,7 +296,7 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
+  group_by: [year, type]
   group_order: descending
 
 # Display different badges withs stats for your publications
@@ -327,6 +332,7 @@ filtered_bibtex_keywords:
     supp,
     video,
     website,
+    type,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
