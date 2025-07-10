@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/blog/";
           },
         },{id: "nav-beyond-academia",
-          title: "Beyond academia",
+          title: "Beyond Academia",
           description: "From data to downtime",
           section: "Navigation",
           handler: () => {
