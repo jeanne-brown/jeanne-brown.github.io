@@ -1,14 +1,15 @@
 ---
 layout: page
 permalink: /beyond/
-title: Beyond academia
+title: Beyond
 description: From data to downtime
 nav: true
 nav_order: 10
-nav_title: Beyond
 images:
   slider: true
 ---
+
+# Beyond academia
 
 {% raw %}
 <style>
