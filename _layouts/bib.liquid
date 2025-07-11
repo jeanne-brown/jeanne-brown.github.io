@@ -164,18 +164,13 @@
     {% elsif thesis contains entry.type %}
       {% capture entrytype %}<em>{{ entry.school }}</em>{% endcapture %}      
     {% elsif entry.entrytype == 'misc' or entry.entrytype == 'unpublished' %}
-      {% if entry.journal %}
-        {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
-      {% endif %}
+      {% capture entrytype %}
+        {% if entry.journal %}<em>{{ entry.journal }}</em>{% endif %}
+        {% if entry.address %}, {{ entry.address }}{% endif %}
+      {% endcapture %}
     {% else %}
       {% capture entrytype %}{% endcapture %}
     {% endif %}    
-    {% if entry.address %}
-      {% capture entrytype %}, {{ entry.address }}{% endcapture %}
-    {% endif %}
-    {% if entry.additional_info %}
-      {% capture entrytype %}, {{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
-    {% endif %}
     {% if entry.month %}
       {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
     {% endif %}
