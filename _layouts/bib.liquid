@@ -152,56 +152,55 @@
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
 
-    {% capture entrytype %}
-      {% if entry.entrytype == 'article' %}
+    {% if entry.type == 'article' %}
+      {% capture entrytype %}
         <em>{{ entry.journal }}</em>
         {% if entry.volume %}<strong>{{ entry.volume }}</strong>{% endif %}
         {% if entry.number %}({{ entry.number }}){% endif %}
         {% if entry.pages %}, {{ entry.pages }}{% endif %}
-      {% elsif proceedings contains entry.entrytype %}
-        <em>In {{ entry.booktitle }}</em>
-      {% elsif thesis contains entry.entrytype %}
-        <em>{{ entry.school }}</em>
-      {% elsif entry.entrytype == 'misc' or entry.entrytype == 'unpublished' %}
-        {% if entry.journal %}
-          <em>{{ entry.journal }}</em>
-        {% endif %}
+      {% endcapture %}
+    {% elsif proceedings contains entry.type %}
+      {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
+    {% elsif thesis contains entry.type %}
+      {% capture entrytype %}<em>{{ entry.school }}</em>{% endcapture %}      
+    {% elsif entry.entrytype == 'misc' or entry.entrytype == 'unpublished' %}
+      {% if entry.journal %}
+        {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
       {% endif %}
-      {% if entry.address %}
-        , {{ entry.address }}
-      {% endif %}
-      {% if entry.additional_info %}
-        , {{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}
-      {% endif %}
-    {% endcapture %}
-
-      {% else %}
-        {% capture entrytype %}{% endcapture %}
-      {% endif %}
-      {% if entry.month %}
-        {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
-      {% endif %}
-      {% if entry.year %}
-        {% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}
-      {% endif %}
-      {% if entry.location %}
-        {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.location }}{% endcapture %}
-      {% endif -%}
-      {% if entry.additional_info %}
-        {% capture entrytype %}{{ entrytype }}{{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
-      {% endif %}
-      {% capture hook_exists %}{% file_exists _includes/hook/bib.liquid %}{% endcapture %}
-      {% if hook_exists == 'true' %}
-        {% include hook/bib.liquid %}
-      {% endif %}
-      {% assign entrytype_text = entrytype | strip_html | strip %}
-      {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
-      <div class="periodical">
-        {{ periodical | strip }}
-      </div>
-      <div class="periodical">
-        {{ entry.note | strip }}
-      </div>
+    {% endif %}
+    {% if entry.address %}
+      {% capture entrytype %}, {{ entry.address }}{% endcapture %}
+    {% endif %}
+    {% if entry.additional_info %}
+      {% capture entrytype %}, {{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
+    {% endif %}
+    {% else %}
+      {% capture entrytype %}{% endcapture %}
+    {% endif %}
+    {% if entry.month %}
+      {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
+    {% endif %}
+    {% if entry.year %}
+      {% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}
+    {% endif %}
+    {% if entry.location %}
+      {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.location }}{% endcapture %}
+    {% endif -%}
+    {% if entry.additional_info %}
+      {% capture entrytype %}{{ entrytype }}{{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
+    {% endif %}
+    {% capture hook_exists %}{% file_exists _includes/hook/bib.liquid %}{% endcapture %}
+    {% if hook_exists == 'true' %}
+      {% include hook/bib.liquid %}
+    {% endif %}
+    {% assign entrytype_text = entrytype | strip_html | strip %}
+    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    <div class="periodical">
+      {{ periodical | strip }}
+    </div>
+    <div class="periodical">
+      {{ entry.note | strip }}
+    </div>
 
     <!-- Links/Buttons -->
     <div class="links">
