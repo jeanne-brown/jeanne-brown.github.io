@@ -167,15 +167,14 @@
       {% if entry.journal %}
         {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
       {% endif %}
-    {% endif %}
+    {% else %}
+      {% capture entrytype %}{% endcapture %}
+    {% endif %}    
     {% if entry.address %}
       {% capture entrytype %}, {{ entry.address }}{% endcapture %}
     {% endif %}
     {% if entry.additional_info %}
       {% capture entrytype %}, {{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
-    {% endif %}
-    {% else %}
-      {% capture entrytype %}{% endcapture %}
     {% endif %}
     {% if entry.month %}
       {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
