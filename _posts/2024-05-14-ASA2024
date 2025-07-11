@@ -1,0 +1,35 @@
+---
+layout: post
+title: ASA2024 Spring in Ottawa
+date: 2024-06-28 01:59:00
+description: Presenting at ASA2024 Spring in my hometown
+tags: creak sociolinguistics phonetics
+categories: conferences research travel
+thumbnail: assets/img/ASA2024_4.jpg
+---
+
+I went back to Ottawa for ASA2024 (Spring) to present my poster "Creaky voice across language, gender and age: A study of Canadian English-French bilingual speech" (joint work with Morgan Sonderegger). Ottawa's tulip season is the best! Here are some pictures from the conference and around downtown.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ASA2024_1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ASA2024_2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ASA2024_6.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>  
+  
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ASA2024_4.jpg" class="img-fluid rounded z-depth-1" caption="Tteokbokki & Twigim @ Namdaemun Market" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ASA2024_5.jpg" class="img-fluid rounded z-depth-1" caption="Tosokchon Samgyetang interior" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ASA2024_3.jpg" class="img-fluid rounded z-depth-1" caption="Tosokchon Samgyetang: The best meal I had in Seoul!)" %}
+    </div>
+</div>
