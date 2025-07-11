@@ -79,7 +79,7 @@ ninja.data = [{
         },
       },{id: "post-asa2024-spring-in-ottawa",
         
-          title: "ASA2024 Spring in Ottawa",
+          title: "ASA2024 Spring in Ottawa!",
         
         description: "Presenting at ASA2024 Spring in my hometown",
         section: "Posts",
