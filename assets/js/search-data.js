@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/beyond/";
           },
-        },{id: "post-labphon19-in-seoul",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/2025-04-05-mothCLA2025/";
+          
+        },
+      },{id: "post-labphon19-in-seoul",
         
           title: "LabPhon19 in Seoul!",
         
