@@ -263,7 +263,7 @@ jekyll-archives:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["phonetics", "sociolinguistics", "creak", "fun"] # these tags will be displayed on the front page of your blog
-display_categories: ["news", "research", "conferences", "personal"] # these categories will be displayed on the front page of your blog
+display_categories: ["news", "research", "conferences", "personal", "travel"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
