@@ -55,6 +55,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/LabPhon19/";
           
         },
+      },{id: "post-lfdi2024-in-shippagan",
+        
+          title: "LFDI2024 in Shippagan!",
+        
+        description: "Roadtrip to Shipaggan for the 9th edition of Les francais d&#39;ici (2024)",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/LFDI2024/";
+          
+        },
       },{id: "news-i-am-pleased-to-announce-that-i-was-awarded-a-lsa-general-institute-fellowship-and-will-be-attending-the-lsa-summer-institute-july-august-2025-in-eugene-oregon-mountain-bicyclist",
           title: 'I am pleased to announce that I was awarded a LSA General Institute...',
           description: "",
