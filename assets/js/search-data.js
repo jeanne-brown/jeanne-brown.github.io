@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/beyond/";
           },
-        },{id: "post-",
+        },{id: "post-moth2025-uoft-and-cla-mcgillu",
         
-          title: "",
+          title: "moth2025 @UofT and CLA @McGillU!",
         
-        description: "",
+        description: "Attending moth2025 and CLA2025 to present my creak mediation work and a bit of sight-seeing in Toronto",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2025-04-05-mothCLA2025/";
+            window.location.href = "/blog/2025/mothCLA2025/";
           
         },
       },{id: "post-labphon19-in-seoul",
