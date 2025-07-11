@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Last updated 30 June 2025. Download PDF for full CV.",
+          description: "Last updated 10 July 2025. Download PDF for full CV.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -61,7 +61,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-awarded-an-frqsc-fonds-de-recherche-du-québec-société-et-culture-doctoral-grant-for-may-2025-to-september-2027-tada",
           title: 'I was awarded an FRQSC (Fonds de recherche du Québec – Société et...',
           description: "",
-          section: "News",},{id: "news-my-paper-a-sociophonetic-study-of-creaky-voice-across-language-gender-and-age-in-canadian-english-french-bilinguals-joint-with-morgan-sonderegger-was-officially-published-in-journal-of-phonetics-tada",
+          section: "News",},{id: "news-my-paper-a-sociophonetic-study-of-creaky-voice-across-language-gender-and-age-in-canadian-english-french-bilinguals-joint-with-morgan-sonderegger-was-officially-published-in-journal-of-phonetics-newspaper",
           title: 'My paper, A sociophonetic study of creaky voice across language, gender and age...',
           description: "",
           section: "News",},{
