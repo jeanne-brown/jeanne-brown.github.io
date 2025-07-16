@@ -95,7 +95,7 @@ images:
       {% include figure.liquid loading="eager" path="assets/img/beyond_19.jpg" class="img-fluid rounded z-depth-1" caption="White Heron" %}
   </swiper-slide>
   <swiper-slide>
-      {% include figure.liquid loading="eager" path="assets/img/beyond_20.jpg" class="img-fluid rounded z-depth-1" caption="View Crescent Street" %}
+      {% include figure.liquid loading="eager" path="assets/img/beyond_20.jpg" class="img-fluid rounded z-depth-1" caption="View of Crescent Street" %}
   </swiper-slide>
 </swiper-container>
 
