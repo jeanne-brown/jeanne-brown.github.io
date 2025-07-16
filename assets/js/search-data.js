@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "post-moth2025-uoft-and-cla-mcgillu",
         
-          title: "moth2025 @UofT and CLA @McGillU!",
+          title: "moth2025 (UofT) and CLA (McGillU)!",
         
         description: "Attending moth2025 and CLA2025 to present my creak mediation work and a bit of sight-seeing in Toronto",
         section: "Posts",
