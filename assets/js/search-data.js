@@ -55,9 +55,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/mothCLA2025/";
           
         },
-      },{id: "post-labphon19-hanyangu-in-seoul",
+      },{id: "post-labphon19-in-seoul",
         
-          title: "LabPhon19 (HanyangU) in Seoul!",
+          title: "LabPhon19 in Seoul!",
         
         description: "Attending LabPhon19 to present my work and doing tourist things in Seoul",
         section: "Posts",
