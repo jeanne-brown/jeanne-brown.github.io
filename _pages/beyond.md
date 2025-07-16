@@ -59,7 +59,7 @@ images:
       {% include figure.liquid loading="eager" path="assets/img/beyond_7.jpg" class="img-fluid rounded z-depth-1" caption="Dalla Rose (cantalope-vanilla)" %}
   </swiper-slide>
   <swiper-slide>
-      {% include figure.liquid loading="eager" path="assets/img/beyond_8.jpg" class="img-fluid rounded z-depth-1" caption="View from PVM" %}
+      {% include figure.liquid loading="eager" path="assets/img/beyond_8.jpg" class="img-fluid rounded z-depth-1" caption="View of McGill College Avenue from PVM" %}
   </swiper-slide>
   <swiper-slide>
       {% include figure.liquid loading="eager" path="assets/img/beyond_9.jpg" class="img-fluid rounded z-depth-1" caption="Juno on a log" %}
