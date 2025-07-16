@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/beyond/";
           },
-        },{id: "post-moth2025-uoft-and-cla-mcgillu",
+        },{id: "post-moth2025-in-toronto-and-cla-in-montreal",
         
-          title: "moth2025 (UofT) and CLA (McGillU)!",
+          title: "moth2025 in Toronto and CLA in Montreal!",
         
         description: "Attending moth2025 and CLA2025 to present my creak mediation work and a bit of sight-seeing in Toronto",
         section: "Posts",
@@ -66,9 +66,9 @@ ninja.data = [{
             window.location.href = "/blog/2024/LabPhon19/";
           
         },
-      },{id: "post-lfdi2024-in-shippagan",
+      },{id: "post-lfdi2024-umoncton-in-shippagan",
         
-          title: "LFDI2024 in Shippagan!",
+          title: "LFDI2024 (UMoncton) in Shippagan!",
         
         description: "Roadtrip to Shipaggan for the 9th edition of Les francais d&#39;ici (2024)",
         section: "Posts",
