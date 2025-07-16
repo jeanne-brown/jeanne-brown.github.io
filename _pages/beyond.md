@@ -41,7 +41,7 @@ images:
       {% include figure.liquid loading="eager" path="assets/img/beyond_1.jpg" class="img-fluid rounded z-depth-1" caption="Pumpkin Juno" %} 
   </swiper-slide>
   <swiper-slide>
-      {% include figure.liquid loading="eager" path="assets/img/beyond_2.jpg" class="img-fluid rounded z-depth-1" caption="Swirl (choco-vanille)" %}
+      {% include figure.liquid loading="eager" path="assets/img/beyond_2.jpg" class="img-fluid rounded z-depth-1" caption="Swirl (choco-vanilla)" %}
   </swiper-slide>
   <swiper-slide>
       {% include figure.liquid loading="eager" path="assets/img/beyond_3.jpg" class="img-fluid rounded z-depth-1" caption="Juno @ Beaver Lake" %}
@@ -56,7 +56,7 @@ images:
       {% include figure.liquid loading="eager" path="assets/img/beyond_6.jpg" class="img-fluid rounded z-depth-1" caption="View of McGill & Mont Royal from SCSD" %}
   </swiper-slide>
   <swiper-slide>
-      {% include figure.liquid loading="eager" path="assets/img/beyond_7.jpg" class="img-fluid rounded z-depth-1" caption="Ca Lem (dark cherry-tiramisu)" %}
+      {% include figure.liquid loading="eager" path="assets/img/beyond_7.jpg" class="img-fluid rounded z-depth-1" caption="Dalla Rose (cantalope-vanilla)" %}
   </swiper-slide>
   <swiper-slide>
       {% include figure.liquid loading="eager" path="assets/img/beyond_8.jpg" class="img-fluid rounded z-depth-1" caption="View from PVM" %}
@@ -66,6 +66,36 @@ images:
   </swiper-slide>
   <swiper-slide>
       {% include figure.liquid loading="eager" path="assets/img/beyond_10.jpg" class="img-fluid rounded z-depth-1" caption="View of Ottawa in Fall" %}
+  </swiper-slide>
+  <swiper-slide>
+      {% include figure.liquid loading="eager" path="assets/img/beyond_11.jpg" class="img-fluid rounded z-depth-1" caption="Puppy Juno (10 weeks)" %}
+  </swiper-slide>
+  <swiper-slide>
+      {% include figure.liquid loading="eager" path="assets/img/beyond_12.jpg" class="img-fluid rounded z-depth-1" caption="Ten Toes" %}
+  </swiper-slide>
+  <swiper-slide>
+      {% include figure.liquid loading="eager" path="assets/img/beyond_13.jpg" class="img-fluid rounded z-depth-1" caption="Beading bracelets" %}
+  </swiper-slide>
+  <swiper-slide>
+      {% include figure.liquid loading="eager" path="assets/img/beyond_14.jpg" class="img-fluid rounded z-depth-1" caption="Sunset over Ottawa River" %}
+  </swiper-slide>
+  <swiper-slide>
+      {% include figure.liquid loading="eager" path="assets/img/beyond_15.jpg" class="img-fluid rounded z-depth-1" caption="Puppy Juno napping" %}
+  </swiper-slide>
+  <swiper-slide>
+      {% include figure.liquid loading="eager" path="assets/img/beyond_16.jpg" class="img-fluid rounded z-depth-1" caption="Musée des beaux-arts" %}
+  </swiper-slide>
+  <swiper-slide>
+      {% include figure.liquid loading="eager" path="assets/img/beyond_17.jpg" class="img-fluid rounded z-depth-1" caption="Puppy Juno (4 months)" %}
+  </swiper-slide>
+  <swiper-slide>
+      {% include figure.liquid loading="eager" path="assets/img/beyond_18.jpg" class="img-fluid rounded z-depth-1" caption="Ca Lem (dark cherry-tiramisu)" %}
+  </swiper-slide>
+  <swiper-slide>
+      {% include figure.liquid loading="eager" path="assets/img/beyond_19.jpg" class="img-fluid rounded z-depth-1" caption="White Heron" %}
+  </swiper-slide>
+  <swiper-slide>
+      {% include figure.liquid loading="eager" path="assets/img/beyond_20.jpg" class="img-fluid rounded z-depth-1" caption="View Crescent Street" %}
   </swiper-slide>
 </swiper-container>
 
