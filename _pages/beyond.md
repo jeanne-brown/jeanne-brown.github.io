@@ -99,4 +99,4 @@ images:
   </swiper-slide>
 </swiper-container>
 
-Most of my non-academic life revolves around my dog, [Juno](https://www.instagram.com/juno_the_dawg/). I enjoy scenic walks, sampling ice cream around the city, cozy video games, competitive cooking shows, and wandering through contemporary art museums.
+Most of my non-academic life revolves around my dog, [Juno](https://www.instagram.com/juno_the_dawg/). I enjoy scenic walks, sampling ice cream around the city, cozy video games, competitive cooking shows, wandering through contemporary art museums, and taking pictures for fun!
