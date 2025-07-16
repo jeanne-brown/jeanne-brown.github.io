@@ -66,9 +66,9 @@ ninja.data = [{
             window.location.href = "/blog/2024/LabPhon19/";
           
         },
-      },{id: "post-lfdi2024-umoncton-in-shippagan",
+      },{id: "post-lfdi2024-in-shippagan",
         
-          title: "LFDI2024 (UMoncton) in Shippagan!",
+          title: "LFDI2024 in Shippagan!",
         
         description: "Roadtrip to Shipaggan for the 9th edition of Les francais d&#39;ici (2024)",
         section: "Posts",
