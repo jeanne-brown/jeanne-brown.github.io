@@ -6,7 +6,7 @@ subtitle: Linguistics PhD Student
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_2.png
   image_circular: false # crops the image to make it circular
   more_info: >
  
