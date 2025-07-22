@@ -9,9 +9,7 @@ profile:
   image: prof_pic_2.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>104</p>
-    <p>1085 Dr Penfield Ave</p>
-    <p>Montreal, Canada</p>
+
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
