@@ -55,6 +55,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/mothCLA2025/";
           
         },
+      },{id: "post-asa-asj-in-honolulu",
+        
+          title: "ASA/ASJ in Honolulu",
+        
+        description: "Attending ASA/ASJ 2025 to present my work and enjoying Honolulu",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/ASA2025/";
+          
+        },
       },{id: "post-labphon19-in-seoul",
         
           title: "LabPhon19 in Seoul!",
