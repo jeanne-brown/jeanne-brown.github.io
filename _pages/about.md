@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Linguistics PhD Student
+subtitle: Linguistics PhD Candidate
 
 profile:
   align: right
