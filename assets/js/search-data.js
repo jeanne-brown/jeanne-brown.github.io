@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/beyond/";
           },
-        },{id: "post-moth2025-in-toronto-and-cla-in-montreal",
+        },{id: "post-lsa-summer-institute-2025",
+        
+          title: "LSA Summer Institute 2025",
+        
+        description: "5 weeks of linguistics summer school in Eugene, Oregon",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/LSAsummer2025/";
+          
+        },
+      },{id: "post-moth2025-in-toronto-and-cla-in-montreal",
         
           title: "moth2025 in Toronto and CLA in Montreal!",
         
