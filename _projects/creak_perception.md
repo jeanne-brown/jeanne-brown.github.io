@@ -2,7 +2,7 @@
 layout: page
 title: "Disentangling acoustic and social biases in creaky voice perception: The effects of f0 and face gender on creakiness ratings"
 description: A study of how creaky voice perception is shaped by speaker f0 and perceived speaker gender.
-img: assets/img/12.jpg
+img: assets/img/creak_perception.png
 importance: 1
 category: work
 related_publications: true
