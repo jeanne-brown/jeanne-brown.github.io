@@ -2,7 +2,7 @@
 layout: page
 title: "Causal structure in creaky voice acoustics: Evidence for f0 mediation"
 description: A causal mediation analysis testing whether f0 mediates relationships between social factors and creaky voice acoustics.
-img: assets/img/12.jpg
+img: assets/img/creak_mediation.png
 importance: 1
 category: work
 related_publications: true
