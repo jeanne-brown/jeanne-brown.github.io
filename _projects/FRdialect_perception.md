@@ -2,7 +2,7 @@
 layout: page
 title: "Perceptual accessibility of Laurentian French dialect boundaries"
 description: A perceptual dialectology study testing whether regional distinctions between Ontario and Quebec French varieties are perceptually grounded, with an exploratory acoustic analysis of the features informing listener judgements.
-img: assets/img/12.jpg
+img: assets/img/FRdialect_perception.png
 importance: 1
 category: work
 related_publications: true
