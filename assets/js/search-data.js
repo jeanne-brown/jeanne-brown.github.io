@@ -147,9 +147,9 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-disentangling-acoustic-and-social-biases-in-creaky-voice-perception-the-effects-of-f0-and-face-gender-on-creakiness-ratings",
+          title: 'Disentangling acoustic and social biases in creaky voice perception: The effects of f0...',
+          description: "A study of how creaky voice perception is shaped by speaker f0 and perceived speaker gender.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/creak_perception/";
             },},{id: "projects-a-sociophonetic-study-of-creaky-voice-across-language-gender-and-age-in-canadian-english-french-bilinguals",
