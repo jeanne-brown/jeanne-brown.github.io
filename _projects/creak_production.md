@@ -2,7 +2,7 @@
 layout: page
 title: A sociophonetic study of creaky voice across language, gender and age in Canadian English-French bilinguals
 description: A study of creaky voice acoustic correlates across language, gender and age.
-img: assets/img/12.jpg
+img: assets/img/creak_production.png
 importance: 1
 category: work
 related_publications: true
