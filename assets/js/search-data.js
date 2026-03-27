@@ -147,6 +147,11 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-perceptual-accessibility-of-laurentian-french-dialect-boundaries",
+          title: 'Perceptual accessibility of Laurentian French dialect boundaries',
+          description: "A perceptual dialectology study testing whether regional distinctions between Ontario and Quebec French varieties are perceptually grounded, with an exploratory acoustic analysis of the features informing listener judgements.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/FRdialect_perception/";
             },},{id: "projects-causal-structure-in-creaky-voice-acoustics-evidence-for-f0-mediation",
           title: 'Causal structure in creaky voice acoustics: Evidence for f0 mediation',
           description: "A causal mediation analysis testing whether f0 mediates relationships between social factors and creaky voice acoustics.",
