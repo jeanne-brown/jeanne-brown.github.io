@@ -176,7 +176,6 @@ exclude:
   - _pages/repositories.md
   - _pages/dropdown.md
   - _pages/books.md
-  - _projects
   - _books
   - bin/
   - CONTRIBUTING.md
