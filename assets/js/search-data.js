@@ -147,6 +147,11 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-causal-structure-in-creaky-voice-acoustics-evidence-for-f0-mediation",
+          title: 'Causal structure in creaky voice acoustics: Evidence for f0 mediation',
+          description: "A causal mediation analysis testing whether f0 mediates relationships between social factors and creaky voice acoustics.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/creak_mediation/";
             },},{id: "projects-disentangling-acoustic-and-social-biases-in-creaky-voice-perception-the-effects-of-f0-and-face-gender-on-creakiness-ratings",
           title: 'Disentangling acoustic and social biases in creaky voice perception: The effects of f0...',
           description: "A study of how creaky voice perception is shaped by speaker f0 and perceived speaker gender.",
