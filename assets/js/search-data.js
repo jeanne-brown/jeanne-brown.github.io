@@ -147,6 +147,11 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-a-sociophonetic-study-of-creaky-voice-across-language-gender-and-age-in-canadian-english-french-bilinguals",
+          title: 'A sociophonetic study of creaky voice across language, gender and age in Canadian...',
+          description: "A study of creaky voice acoustic correlates across language, gender and age.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/creak_production/";
             },},{
         id: 'social-email',
         title: 'email',
