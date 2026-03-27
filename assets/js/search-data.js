@@ -132,17 +132,7 @@ ninja.data = [{
           section: "News",},{id: "news-my-paper-disentangling-acoustic-and-social-biases-in-creaky-voice-perception-the-effects-of-f0-and-face-gender-on-creakiness-ratings-joint-with-meghan-clayards-was-officially-published-in-laboratory-phonology-newspaper",
           title: 'My paper, Disentangling acoustic and social biases in creaky voice perception: The effects...',
           description: "",
-          section: "News",},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-perceptual-accessibility-of-laurentian-french-dialect-boundaries",
+          section: "News",},{id: "projects-perceptual-accessibility-of-laurentian-french-dialect-boundaries",
           title: 'Perceptual accessibility of Laurentian French dialect boundaries',
           description: "A perceptual dialectology study testing whether regional distinctions between Ontario and Quebec French varieties are perceptually grounded, with an exploratory acoustic analysis of the features informing listener judgements.",
           section: "Projects",handler: () => {
