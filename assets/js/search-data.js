@@ -140,7 +140,7 @@ ninja.data = [{
           section: "News",},{id: "news-my-paper-a-sociophonetic-study-of-creaky-voice-across-language-gender-and-age-in-canadian-english-french-bilinguals-joint-with-morgan-sonderegger-was-officially-published-in-journal-of-phonetics-newspaper",
           title: 'My paper, A sociophonetic study of creaky voice across language, gender and age...',
           description: "",
-          section: "News",},{id: "news-my-paper-disentangling-acoustic-and-social-biases-in-creaky-voice-perception-the-effects-of-f0-and-face-gender-on-creakiness-ratings-joint-with-meghan-clayards-was-officially-published-in-laboratory-phonology-newspaper",
+          section: "News",},{id: "news-my-paper-disentangling-acoustic-and-social-biases-in-creaky-voice-perception-the-effects-of-f0-and-face-gender-on-creakiness-ratings-joint-with-meghan-clayards-is-now-out-in-laboratory-phonology-newspaper",
           title: 'My paper, Disentangling acoustic and social biases in creaky voice perception: The effects...',
           description: "",
           section: "News",},{id: "news-i-gave-my-first-invited-talk-at-the-190th-meeting-of-the-acoustical-society-of-america-in-philadelphia-presenting-my-work-on-creaky-voice-to-date-the-talk-was-covered-in-asa-s-190th-press-release-new-scientist-and-ars-technica-see-the-post-here",
