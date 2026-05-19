@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper, [Disentangling acoustic and social biases in creaky voice perception: The effects of f0 and face gender on creakiness ratings](https://doi.org/10.16995/labphon.24285) (joint with Meghan Clayards), was officially published in Laboratory Phonology! :newspaper:
+My paper, [Disentangling acoustic and social biases in creaky voice perception: The effects of f0 and face gender on creakiness ratings](https://doi.org/10.16995/labphon.24285) (joint with Meghan Clayards), is now out in Laboratory Phonology! :newspaper:
