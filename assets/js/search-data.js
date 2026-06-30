@@ -51,7 +51,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/beyond/";
           },
-        },{id: "post-asa2024-spring-in-ottawa",
+        },{id: "post-labphon19-in-seoul",
+        
+          title: "LabPhon19 in Seoul!",
+        
+        description: "Attending LabPhon19 to present my work and doing tourist things in Seoul",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/LabPhon19/";
+          
+        },
+      },{id: "post-lfdi2024-in-shippagan",
+        
+          title: "LFDI2024 in Shippagan!",
+        
+        description: "Roadtrip to Shipaggan for the 9th edition of Les francais d&#39;ici (2024)",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/LFDI2024/";
+          
+        },
+      },{id: "post-asa2024-spring-in-ottawa",
         
           title: "ASA2024 Spring in Ottawa!",
         
