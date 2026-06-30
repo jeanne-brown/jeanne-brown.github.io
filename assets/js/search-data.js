@@ -62,6 +62,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/ASA2026/";
           
         },
+      },{id: "post-asa-asj-in-honolulu",
+        
+          title: "ASA/ASJ in Honolulu",
+        
+        description: "Attending ASA/ASJ 2025 to present my work and enjoying Honolulu",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ASA2025/";
+          
+        },
       },{id: "news-i-am-pleased-to-announce-that-i-was-awarded-a-lsa-general-institute-fellowship-and-will-be-attending-the-lsa-summer-institute-july-august-2025-in-eugene-oregon-mountain-bicyclist",
           title: 'I am pleased to announce that I was awarded a LSA General Institute...',
           description: "",
