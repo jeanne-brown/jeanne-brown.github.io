@@ -95,17 +95,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/mothCLA2025/";
           
         },
-      },{id: "post-labphon19-in-seoul",
-        
-          title: "LabPhon19 in Seoul!",
-        
-        description: "Attending LabPhon19 to present my work and doing tourist things in Seoul",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/LabPhon19/";
-          
-        },
       },{id: "news-i-am-pleased-to-announce-that-i-was-awarded-a-lsa-general-institute-fellowship-and-will-be-attending-the-lsa-summer-institute-july-august-2025-in-eugene-oregon-mountain-bicyclist",
           title: 'I am pleased to announce that I was awarded a LSA General Institute...',
           description: "",
