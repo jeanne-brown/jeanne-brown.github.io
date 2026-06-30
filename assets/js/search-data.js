@@ -84,17 +84,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/LSAsummer2025/";
           
         },
-      },{id: "post-moth2025-in-toronto-and-cla-in-montreal",
-        
-          title: "moth2025 in Toronto and CLA in Montreal!",
-        
-        description: "Attending moth2025 and CLA2025 to present my creak mediation work and a bit of sight-seeing in Toronto",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/mothCLA2025/";
-          
-        },
       },{id: "news-i-am-pleased-to-announce-that-i-was-awarded-a-lsa-general-institute-fellowship-and-will-be-attending-the-lsa-summer-institute-july-august-2025-in-eugene-oregon-mountain-bicyclist",
           title: 'I am pleased to announce that I was awarded a LSA General Institute...',
           description: "",
