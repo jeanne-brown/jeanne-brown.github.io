@@ -51,7 +51,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/beyond/";
           },
-        },{id: "post-asa-asj-in-honolulu",
+        },{id: "post-labphon-20-in-montreal",
+        
+          title: "LabPhon 20 in Montreal",
+        
+        description: "LabPhon20 --  a recap of organizing a milestone conference in Montreal, complete with snack tables, a poster, and a well-earned rest after",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/LabPhon20/";
+          
+        },
+      },{id: "post-asa-in-philly",
+        
+          title: "ASA in Philly",
+        
+        description: "Invited talk at ASA 190 in Philadelphia, with media coverage and tourist things",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/ASA2026/";
+          
+        },
+      },{id: "post-asa-asj-in-honolulu",
         
           title: "ASA/ASJ in Honolulu",
         
