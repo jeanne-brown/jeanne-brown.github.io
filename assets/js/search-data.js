@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/beyond/";
           },
-        },{id: "news-i-am-pleased-to-announce-that-i-was-awarded-a-lsa-general-institute-fellowship-and-will-be-attending-the-lsa-summer-institute-july-august-2025-in-eugene-oregon-mountain-bicyclist",
+        },{id: "post-asa-in-philly",
+        
+          title: "ASA in Philly",
+        
+        description: "Invited talk at ASA 190 in Philadelphia, with media coverage and tourist things",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/ASA2026/";
+          
+        },
+      },{id: "news-i-am-pleased-to-announce-that-i-was-awarded-a-lsa-general-institute-fellowship-and-will-be-attending-the-lsa-summer-institute-july-august-2025-in-eugene-oregon-mountain-bicyclist",
           title: 'I am pleased to announce that I was awarded a LSA General Institute...',
           description: "",
           section: "News",},{id: "news-i-was-awarded-an-frqsc-fonds-de-recherche-du-québec-société-et-culture-doctoral-grant-for-may-2025-to-september-2027-tada",
