@@ -51,40 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/beyond/";
           },
-        },{id: "post-asa-in-philly",
-        
-          title: "ASA in Philly",
-        
-        description: "Invited talk at ASA 190 in Philadelphia, with media coverage and tourist things",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/ASA2026/";
-          
-        },
-      },{id: "post-asa-asj-in-honolulu",
-        
-          title: "ASA/ASJ in Honolulu",
-        
-        description: "Attending ASA/ASJ 2025 to present my work and enjoying Honolulu",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/ASA2025/";
-          
-        },
-      },{id: "post-lsa-summer-institute-2025",
-        
-          title: "LSA Summer Institute 2025",
-        
-        description: "5 weeks of linguistics summer school in Eugene, Oregon",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/LSAsummer2025/";
-          
-        },
-      },{id: "news-i-am-pleased-to-announce-that-i-was-awarded-a-lsa-general-institute-fellowship-and-will-be-attending-the-lsa-summer-institute-july-august-2025-in-eugene-oregon-mountain-bicyclist",
+        },{id: "news-i-am-pleased-to-announce-that-i-was-awarded-a-lsa-general-institute-fellowship-and-will-be-attending-the-lsa-summer-institute-july-august-2025-in-eugene-oregon-mountain-bicyclist",
           title: 'I am pleased to announce that I was awarded a LSA General Institute...',
           description: "",
           section: "News",},{id: "news-i-was-awarded-an-frqsc-fonds-de-recherche-du-québec-société-et-culture-doctoral-grant-for-may-2025-to-september-2027-tada",
