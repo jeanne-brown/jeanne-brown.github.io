@@ -50,7 +50,7 @@ nav_order: 5
 ### Tutor
 ##### Private practice
 - <div style="display: flex; justify-content: space-between;">
-    <span><strong>Undergraduate linguistics</strong> – phono, morpho, sem, psycholing, L2 acq</span>
+    <span><strong>Undergraduate linguistics</strong> – phonology, morphology, semantics, psycholinguistics, L2 acquisition</span>
     <span>Fall 2019 – Winter 2021</span>
   </div>
   
