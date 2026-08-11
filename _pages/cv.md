@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 6
 cv_pdf: JEANNE_BROWN_CV.pdf # you can also use external links here
-description: Last updated 5 May 2026. Download PDF for full CV.
+description: Last updated 11 August 2026. Download PDF for full CV.
 toc:
   sidebar: left
 ---
