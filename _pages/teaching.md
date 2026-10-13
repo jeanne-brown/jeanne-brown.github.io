@@ -18,7 +18,7 @@ nav_order: 4
     <span>Summer 2026</span>
   </div>
 
-  ### Course lecturer
+### Course lecturer
 ##### Department of Linguistics, McGill University
 - <div style="display: flex; justify-content: space-between;">
     <span><strong>Intro to Speech Science (LING210)</strong></span>
