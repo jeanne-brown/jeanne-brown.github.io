@@ -13,7 +13,7 @@ nav_order: 4
     <span><strong>Joint Honours Undergraduate Thesis (with Prof. Meghan Clayards)</strong></span>
     <span>Fall 2026 – Winter 2027</span>
   </div>
-  - <div style="display: flex; justify-content: space-between;">
+- <div style="display: flex; justify-content: space-between;">
     <span><strong>Undergraduate RA work (with Profs. Morgan Sonderegger & Meghan Clayards)</strong></span>
     <span>Summer 2026</span>
   </div>
