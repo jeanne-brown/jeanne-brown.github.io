@@ -20,6 +20,7 @@ nav_order: 2
 </div>
 
 <hr>
+
 ## Manuscripts & Preprints
 
 <div class="publications">
@@ -27,6 +28,7 @@ nav_order: 2
 </div>
 
 <hr>
+
 ## Proceedings Papers
 
 <div class="publications">
@@ -34,6 +36,7 @@ nav_order: 2
 </div>
 
 <hr>
+
 ## Conference Presentations & Posters
 
 <div class="publications">
