@@ -9,11 +9,11 @@ nav_order: 7
 
 
 ## Press Conference
-**"[Rethinking 'young women's creak': Piecing together production, perception, and social evidence](https://www.youtube.com/watch?v=2yirfbdu7L4)"**  
+"[Rethinking 'young women's creak': Piecing together production, perception, and social evidence](https://www.youtube.com/watch?v=2yirfbdu7L4)"  
 190th Meeting of the Acoustical Society of America, Philadelphia, USA — May 12, 2026
 
 ## Press Release
-**"[Challenging biases about vocal fry](https://acoustics.org/challenging-biases-about-vocal-fry-asa190/)"**  
+"[Challenging biases about vocal fry](https://acoustics.org/challenging-biases-about-vocal-fry-asa190/)"  
 190th Meeting of the Acoustical Society of America, Philadelphia, USA — May 14, 2026
 
 ## Interviews
