@@ -5,7 +5,7 @@ title: Beyond academia
 nav_title: Beyond
 description: From data to downtime
 nav: true
-nav_order: 10
+nav_order: 11
 images:
   slider: true
 ---
