@@ -13,22 +13,26 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<div class="publications">
-
 ## Journal Articles
 
+<div class="publications">
 {% bibliography --query @article --sort_by year --order descending %}
+</div>
 
 ## Manuscripts & Preprints
 
+<div class="publications">
 {% bibliography --query @unpublished --sort_by year --order descending %}
+</div>
 
 ## Proceedings Papers
 
+<div class="publications">
 {% bibliography --query @inproceedings --sort_by year --order descending %}
+</div>
 
 ## Conference Presentations & Posters
 
+<div class="publications">
 {% bibliography --query @misc --sort_by year --order descending %}
-
 </div>
