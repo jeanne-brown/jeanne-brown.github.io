@@ -19,18 +19,21 @@ nav_order: 2
 {% bibliography --query @article --sort_by year --order descending %}
 </div>
 
+<hr>
 ## Manuscripts & Preprints
 
 <div class="publications">
 {% bibliography --query @unpublished --sort_by year --order descending %}
 </div>
 
+<hr>
 ## Proceedings Papers
 
 <div class="publications">
 {% bibliography --query @inproceedings --sort_by year --order descending %}
 </div>
 
+<hr>
 ## Conference Presentations & Posters
 
 <div class="publications">
