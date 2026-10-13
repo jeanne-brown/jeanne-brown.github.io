@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Academic instruction and student support
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 ### Course lecturer
