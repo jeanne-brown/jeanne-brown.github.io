@@ -10,11 +10,11 @@ nav_order: 4
 ### Co-supervisor
 ##### Department of Linguistics, McGill University
 - <div style="display: flex; justify-content: space-between;">
-    <span><strong>Joint Honours Undergraduate Thesis (with Prof. Meghan Clayards)</strong></span>
+    <span><strong>Joint Honours Undergraduate Thesis</strong> (with Prof. Meghan Clayards)</span>
     <span>Fall 2026 – Winter 2027</span>
   </div>
 - <div style="display: flex; justify-content: space-between;">
-    <span><strong>Undergraduate RA work (with Profs. Morgan Sonderegger & Meghan Clayards)</strong></span>
+    <span><strong>Undergraduate RA work</strong> (with Profs. Morgan Sonderegger & Meghan Clayards)</span>
     <span>Summer 2026</span>
   </div>
 
