@@ -13,6 +13,8 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<hr>
+
 ## Journal Articles
 
 <div class="publications">
