@@ -35,7 +35,7 @@ nav_order: 4
 ### Teaching assistant
 ##### Department of Linguistics, McGill University
 - <div style="display: flex; justify-content: space-between;">
-    <span><strong>Phonetics 3 (LING330)</strong> – Professor Andrei Munteanu</span>
+    <span><strong>Phonetics 3 (LING330)</strong> – Dr. Andrei Munteanu</span>
     <span>Winter 2025</span>
   </div>
 - <div style="display: flex; justify-content: space-between;">
@@ -47,7 +47,7 @@ nav_order: 4
     <span>Winter 2024</span>
   </div>
 - <div style="display: flex; justify-content: space-between;">
-    <span><strong>Introduction to Linguistics (LING201)</strong> – Professor Andrei Munteanu</span>
+    <span><strong>Introduction to Linguistics (LING201)</strong> – Dr. Andrei Munteanu</span>
     <span>Fall 2023</span>
   </div>
 
@@ -61,7 +61,7 @@ nav_order: 4
     <span>Winter 2020</span>
   </div>
 - <div style="display: flex; justify-content: space-between;">
-    <span><strong>Théorie syntaxique (LIN3710)</strong> – Professor Myriam Dali</span>
+    <span><strong>Théorie syntaxique (LIN3710)</strong> – Dr. Myriam Dali</span>
     <span>Fall 2019</span>
   </div>
 
