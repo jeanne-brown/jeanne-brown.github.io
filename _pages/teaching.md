@@ -7,11 +7,29 @@ nav: true
 nav_order: 4
 ---
 
-### Course lecturer
+### Co-supervisor
+##### Department of Linguistics, McGill University
+- <div style="display: flex; justify-content: space-between;">
+    <span><strong>Joint Honours Undergraduate Thesis (with Prof. Meghan Clayards)</strong></span>
+    <span>Fall 2026 – Winter 2027</span>
+  </div>
+  - <div style="display: flex; justify-content: space-between;">
+    <span><strong>Undergraduate RA work (with Profs. Morgan Sonderegger & Meghan Clayards)</strong></span>
+    <span>Summer 2026</span>
+  </div>
+
+  ### Course lecturer
 ##### Department of Linguistics, McGill University
 - <div style="display: flex; justify-content: space-between;">
     <span><strong>Intro to Speech Science (LING210)</strong></span>
     <span>Fall 2025</span>
+  </div>
+
+### Guest lecturer
+##### Department of Linguistics, McGill University
+- <div style="display: flex; justify-content: space-between;">
+    <span><strong>Intro to Speech Science (LING210)</strong></span>
+    <span>Fall 2024, Summer 2025, Summer 2026</span>
   </div>
 
 ### Teaching assistant
