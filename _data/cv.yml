@@ -15,12 +15,12 @@
       institution: McGill University, Montreal, Canada
       year: 2027
       description:
-        - Thesis TBD -- Supervised by Morgan Sonderegger & Meghan Clayards
+        - "From discourse to data; Empirical approaches to studying sociophonetic variation within the Canadian landscape" -- Supervised by Morgan Sonderegger & Meghan Clayards
     - title: Master of Arts (MA) in Linguistics
       institution: University of Ottawa, Ottawa, Canada
       year: 2020
       description:
-        - “An Acoustic Study of Voicing and Register in Northern Raglai” -- Supervised by Marc Brunelle
+        - "An acoustic study of voicing and register in Northern Raglai" -- Supervised by Marc Brunelle
     - title: Joint Honours Bachelor of Arts (BA) in Psychology and Linguistics
       institution: University of Ottawa, Ottawa, Canada
       year: 2019
@@ -29,6 +29,18 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Co-supervisor
+      institution: Department of Linguistics, McGill University
+      year: 09/2026-04/2027
+      description:
+        - Joint Honours Undergraduate Thesis (with Prof. Meghan Clayards)
+        - Gender presentation and the perception of nonbinary voices
+    - title: Co-supervisor
+      institution: Department of Linguistics, McGill University
+      year: 05/2026-08/2026
+      description:
+        - Undergraduate RA work (two students; with Prof. Morgan Sonderegger & Prof. Meghan Clayards)
+        - Training in data collection and processing for corpus construction
     - title: Course Lecturer
       institution: Department of Linguistics, McGill University
       year: 09/2025-12/2025
@@ -56,7 +68,7 @@
       institution: School of Communication Sciences and Disorders, Dalhousie University, Dr. Patricia Cleave
       year: 04/2021-04/2023
       description:
-        - "The Discourse Skills of Monolingual and Bilingual School-aged Children"
+        - "The discourse skills of monolingual and bilingual school-aged children"
     - title: Freelance transcriber
       institution: Faculty of Education, Crandall University
       year: 10/2021-04/2022
@@ -64,12 +76,12 @@
       institution: Department of Linguistics, University of Ottawa, Marc Brunelle
       year: 01/2019-07/2021
       description:
-        - "Voicing and its transphonologization: the initiation and actuation of a sound change in Southeast Asia"
+        - "Voicing and its transphonologization: The initiation and actuation of a sound change in Southeast Asia"
     - title: Research Assistant
       institution: Department of Linguistics, University of Ottawa, Stephen Levey
       year: 01/2019-12/2021
       description:
-        - "Learning to Sound Like a Native Speaker"
+        - "Learning to sound like a native speaker"
 
 - title: Projects
   type: time_table
@@ -96,15 +108,22 @@
   contents:
     - year: 2025
       items:
-        - Fonds de recherche du Québec – Société et Culture (FRQSC) Grant [373124]
-        - Linguistics Society of America Summer General Institute Fellowship
-        - Government of Québec – Graduate Mobility Award
+        - Doctoral Research Scholarship [373124] – Fonds de recherche du Québec Société et Culture (FRQSC) 
+        - General Institute Fellowship – Linguistics Society of America 
+        - Graduate Mobility Award – Government of Québec
+        - Graduate Student Travel Award – Centre for Research on Brain, Language and Music
+    - year: 2024
+      items:
+        - McCall MacBain Fellowship in Arts – McGill University
+    - year: 2023
+      items:
+        - Graduate Student Travel Award – Centre for Research on Brain, Language and Music
     - year: 2019
       items:
-        - University of Ottawa – Summa cum laude
+        - Summa cum laude – University of Ottawa
     - year: 2018
       items:
-        - University of Ottawa – Edward Sapir Scholarship in Linguistics
+        - Edward Sapir Scholarship in Linguistics – University of Ottawa
 
 - title: Academic Interests
   type: nested_list
@@ -117,6 +136,7 @@
       items:
         - Language variation and change
         - Indexicality
+        - Gender
 
 #- title: Other Interests
 #  type: list
