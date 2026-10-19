@@ -43,7 +43,7 @@ nav_order: 4
     <span>Fall 2024</span>
   </div>
 - <div style="display: flex; justify-content: space-between;">
-    <span><strong>Language Acquisition I (LING355)</strong> – Professor Heather Goad</span>
+    <span><strong>Language Acquisition 1 (LING355)</strong> – Professor Heather Goad</span>
     <span>Winter 2024</span>
   </div>
 - <div style="display: flex; justify-content: space-between;">
