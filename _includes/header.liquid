@@ -120,9 +120,13 @@
           <!-- Language toggle -->
           <li class="nav-item">
             {% if page.permalink contains '/fr/' or page.permalink == '/fr/' %}
-              <a class="nav-link" href="{{ page.permalink | remove_first: '/fr' }}">EN</a> | <a class="nav-link" href="{{ page.permalink }}">FR</a>
+              <a href="{{ page.permalink | remove_first: '/fr' }}">
+                <button class="lang-toggle" title="Switch to English">EN</button>
+              </a>
             {% else %}
-              <a class="nav-link" href="{{ page.permalink }}">EN</a> | <a class="nav-link" href="/fr{{ page.permalink }}">FR</a>
+              <a href="/fr{{ page.permalink }}">
+                <button class="lang-toggle" title="Passer en français">FR</button>
+              </a>
             {% endif %}
           </li>
           {% if site.search_enabled %}
