@@ -187,6 +187,26 @@ ninja.data = [{
           description: "A study of creaky voice acoustic correlates across language, gender and age.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/creak_production/";
+            },},{id: "projects_fr-accessibilité-perceptuelle-des-frontières-dialectales-du-français-laurentien",
+          title: 'Accessibilité perceptuelle des frontières dialectales du français laurentien',
+          description: "Une étude de dialectologie perceptuelle visant à tester si les distinctions régionales entre les variétés de français ontarien et québécois sont perceptuellement fondées, avec une analyse acoustique exploratoire des traits informant les jugements des auditeurs.",
+          section: "Projects_fr",handler: () => {
+              window.location.href = "/fr/projects/FRdialect_perception/";
+            },},{id: "projects_fr-structure-causale-dans-l-39-acoustique-de-la-voix-craquée-données-en-faveur-d-39-une-médiation-par-f0",
+          title: 'Structure causale dans l&amp;#39;acoustique de la voix craquée : données en faveur d&amp;#39;une...',
+          description: "Une analyse de médiation causale testant si f0 médie les relations entre les facteurs sociaux et les propriétés acoustiques de la voix craquée.",
+          section: "Projects_fr",handler: () => {
+              window.location.href = "/fr/projects/creak_mediation/";
+            },},{id: "projects_fr-démêler-les-biais-acoustiques-et-sociaux-dans-la-perception-de-la-voix-craquée-les-effets-de-f0-et-du-genre-perçu-du-visage-sur-les-évaluations-de-voix-crquée",
+          title: 'Démêler les biais acoustiques et sociaux dans la perception de la voix craquée...',
+          description: "Une étude de la façon dont la perception de la voix craquée est modelé par le f0 du locuteur et le genre perçu du locuteur.",
+          section: "Projects_fr",handler: () => {
+              window.location.href = "/fr/projects/creak_perception/";
+            },},{id: "projects_fr-une-étude-sociophonétique-de-la-voix-craquée-selon-la-langue-le-genre-et-l-39-âge-chez-les-bilingues-anglais-français-canadiens",
+          title: 'Une étude sociophonétique de la voix craquée selon la langue, le genre et...',
+          description: "Une étude des corrélats acoustiques de la voix craquée selon la langue, le genre et l&#39;âge.",
+          section: "Projects_fr",handler: () => {
+              window.location.href = "/fr/projects/creak_production/";
             },},{
         id: 'social-email',
         title: 'email',
