@@ -118,7 +118,7 @@
             {% endif %}
           {% endfor %}
           <!-- Language toggle -->
-          <li class="nav-item">
+          <li class="toggle-container">
             {% if page.permalink contains '/fr/' or page.permalink == '/fr/' %}
               <a href="{{ page.permalink | remove_first: '/fr' }}">
                 <button id="lang-toggle" title="Switch to English">EN</button>
