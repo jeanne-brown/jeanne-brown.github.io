@@ -395,6 +395,20 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Language toggle button
+#lang-toggle {
+  padding: 0;
+  border: 0;
+  background-color: inherit;
+  color: var(--global-text-color);
+  font-size: 0.85rem;
+  cursor: pointer;
+
+  &:hover {
+    color: var(--global-hover-color);
+  }
+}
+
 // Social (bottom)
 
 .social {
