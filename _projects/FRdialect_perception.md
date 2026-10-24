@@ -13,4 +13,4 @@ This project explores how listeners perceive and evaluate regional varieties of 
 
 Using perceptual dialectology methods, including forced-choice tasks and attitudinal judgments, the research aims to reveal systematic patterns in how Canadians conceptualize French linguistic diversity. This work contributes to understanding language attitudes, regional identity, and the social construction of linguistic variation in a multilingual national context.
 
-Stimuli for the first pilot (presented at NWAV54, (poster here)[https://jeanne-brown.github.io/assets/pdf/Brown_NWAV54.pdf]) are available on the (OSF page here)[https://osf.io/zj7hf/].
+Stimuli for the first pilot (presented at NWAV54, [poster here](https://jeanne-brown.github.io/assets/pdf/Brown_NWAV54.pdf) are available on the [OSF page here](https://osf.io/zj7hf/).
