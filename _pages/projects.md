@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
+nav_title_fr: Projets
+has_fr: true
 ---
 
 <!-- pages/projects.md -->
