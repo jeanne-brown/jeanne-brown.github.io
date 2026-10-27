@@ -42,6 +42,10 @@
 
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
+          {% assign is_french = false %}
+          {% if page.permalink contains '/fr/' or page.permalink == '/fr/' %}
+            {% assign is_french = true %}
+          {% endif %}
           {% for page in site.pages %}
             {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
           {% endfor %}
@@ -107,8 +111,15 @@
                   {%- else -%}
                     {%- assign url = p.url -%}
                   {%- endif %}
+                  {% if is_french and p.has_fr %}
+                    {% assign url = p.url | prepend: '/fr' %}
+                  {% endif %}
                   <a class="nav-link" href="{{ url | relative_url }}">
-                    {{- p.nav_title | default: p.title }}
+                    {% if is_french and p.nav_title_fr %}
+                      {{- p.nav_title_fr }}
+                    {% else %}
+                      {{- p.nav_title | default: p.title }}
+                    {% endif %}
                     {% if page.url contains p.url %}
                       <span class="sr-only">(current)</span>
                     {% endif %}
