@@ -5,6 +5,8 @@ title: Press
 description: Media coverage of my research
 nav: true
 nav_order: 7
+nav_title_fr: Presse
+has_fr: true
 ---
 
 
