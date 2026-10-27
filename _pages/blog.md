@@ -14,6 +14,8 @@ pagination:
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
+nav_title_fr: Blogue
+has_fr: false
 ---
 
 <div class="post">
