@@ -4,6 +4,9 @@ title: About
 permalink: /
 subtitle: Linguistics PhD Candidate
 
+nav_title_fr: À propos
+has_fr: true
+
 profile:
   align: right
   image: prof_pic_2.png
