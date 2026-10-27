@@ -5,6 +5,8 @@ title: Teaching
 description: Academic instruction and student support
 nav: true
 nav_order: 4
+nav_title_fr: Enseignement
+has_fr: true
 ---
 
 ### Co-supervisor
