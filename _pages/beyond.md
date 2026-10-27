@@ -8,6 +8,8 @@ nav: true
 nav_order: 8
 images:
   slider: true
+nav_title_fr: Ailleurs
+has_fr: true
 ---
 
 
