@@ -5,6 +5,8 @@ title: Publications
 description: Publications in reverse chronological order
 nav: true
 nav_order: 2
+nav_title_fr: Publications
+has_fr: true
 ---
 
 <!-- _pages/publications.md -->
