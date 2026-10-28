@@ -21,6 +21,10 @@ nav_order: 4
 ### Chargée de cours
 ##### Département de linguistique, Université McGill
 - <div style="display: flex; justify-content: space-between;">
+    <span><strong>Sociolinguistics 1 (LING320)</strong></span>
+    <span>Hiver 2027</span>
+  </div>
+  - <div style="display: flex; justify-content: space-between;">
     <span><strong>Introduction to speech science (LING210)</strong></span>
     <span>Automne 2025</span>
   </div>
