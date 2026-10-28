@@ -11,7 +11,7 @@ images:
 ---
 
 
-{% raw %} 
+{% raw %}
 <style>
   swiper-container {
     display: block;
