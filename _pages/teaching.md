@@ -23,6 +23,10 @@ has_fr: true
 ### Course lecturer
 ##### Department of Linguistics, McGill University
 - <div style="display: flex; justify-content: space-between;">
+    <span><strong>Sociolinguistics 1 (LING320)</strong></span>
+    <span>Winter 2027</span>
+  </div>
+- <div style="display: flex; justify-content: space-between;">
     <span><strong>Intro to Speech Science (LING210)</strong></span>
     <span>Fall 2025</span>
   </div>
