@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was awarded an FRQSC (Fonds de recherche du Québec -- Société et culture) doctoral grant for May 2025 to September 2027! :tada:
+J'ai obtenu une bourse de doctorat du FRQSC (Fonds de recherche du Québec – Société et culture) pour la période de mai 2025 à septembre 2027! :tada:
