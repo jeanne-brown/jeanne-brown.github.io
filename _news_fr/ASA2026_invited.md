@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave my first invited talk at the 190th Meeting of the Acoustical Society of America in Philadelphia, presenting my work on creaky voice to date! The talk was covered in ASA's 190th press release, New Scientist and Ars Technica. See the post [here](https://jeanne-brown.github.io/blog/2026/ASA2026/).
+J'ai donné ma première conférence invitée à la 190th Meeting of the Acoustical Society of America, à Philadelphie, où j'ai présenté mes travaux sur la voix craquée à jour! La conférence a été couverte dans le communiqué de presse de l'ASA, par New Scientist et par Ars Technica. Voir le l'article de blogue [ici](https://jeanne-brown.github.io/blog/2026/ASA2026/).
