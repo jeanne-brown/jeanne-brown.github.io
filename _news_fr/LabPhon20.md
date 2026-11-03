@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I co-organized LabPhon 20 in Montreal, marking the conference's 40th anniversary! I also presented a poster, "Modelling the acoustic structure of creaky voice: Mediation and factor analysis." 🥂
+J'ai co-organisé LabPhon 20 à Montréal, qui marquait le 40e anniversaire de la conférence! J'y ai aussi présenté une affiche, "Modelling the acoustic structure of creaky voice: Mediation and factor analysis." 🥂
