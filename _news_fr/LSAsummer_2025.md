@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am pleased to announce that I was awarded a LSA General Institute Fellowship and will be attending the LSA summer institute July-August 2025 in Eugene, Oregon! :mountain_bicyclist:
+J'ai le plaisir d'annoncer que j'ai obtenu un LSA General Institute Fellowship et que je participerai à l'institut d'été de la LSA en juillet et août 2025, à Eugene, en Oregon! :mountain_bicyclist:
