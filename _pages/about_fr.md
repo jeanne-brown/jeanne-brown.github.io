@@ -20,9 +20,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false # included manually at the end of the page
+  scrollable: true
+  limit: 3
 ---
 
 ### Bonjour
@@ -34,3 +34,5 @@ J'ai grandi à Ottawa, où j'ai complété mon baccalauréat en psychologie et l
 À McGill, je suis affiliée au [Laboratoire de linguistique computationnelle et quantitative de Montréal (MCQLL)](https://mcqll.org/) et au [Speech Learning Lab](https://speechlearning.lab.mcgill.ca/) — sous la supervision de [Prof. Morgan Sonderegger](https://people.linguistics.mcgill.ca/~morgan/) et de [Prof. Meghan Clayards](https://www.mcgill.ca/linguistics/meghan-clayards-sheher). Mes travaux doctoraux comprennent des études sociophonétiques de la voix craquée, examinant sa variation acoustique selon le genre, l'âge et la langue (anglais canadien et français laurentien), ainsi que sa perception en fonction de la hauteur tonale et du genre perçu du locuteur, et les mécanismes liant le genre aux propriétés acoustiques de la voix craquée, à l'aide d'une analyse de médiation causale pour isoler le rôle du f0. Je suis également aux premières étapes d'un projet de dialectologie perceptuelle visant à examiner si les variétés de français laurentien (Ontario et Québec) sont perceptuellement distinguables. Je maintiens une [page OSF](https://osf.io/pkuzb/) pour archiver mes projets en cours.
 
 {% include news_fr.liquid limit=true %}
+
+{% include latest_posts_fr.liquid %}
