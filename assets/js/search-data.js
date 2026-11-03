@@ -167,7 +167,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-co-organized-labphon-20-in-montreal-marking-the-conference-s-40th-anniversary-i-also-presented-a-poster-modelling-the-acoustic-structure-of-creaky-voice-mediation-and-factor-analysis",
           title: 'I co-organized LabPhon 20 in Montreal, marking the conference’s 40th anniversary! I also...',
           description: "",
-          section: "News",},{id: "news-i-joint-with-morgan-sonderegger-have-submitted-a-new-paper-using-causal-mediation-analysis-to-investigate-the-role-of-f0-in-gender-variation-in-creaky-voice-acoustics-a-preprint-is-available-on-ssrn-here-https-dx-doi-org-10-2139-ssrn-7333498",
+          section: "News",},{id: "news-i-joint-with-morgan-sonderegger-have-submitted-a-new-paper-using-causal-mediation-analysis-to-investigate-the-role-of-f0-in-gender-variation-in-creaky-voice-acoustics-a-preprint-is-available-on-ssrn-here",
           title: 'I (joint with Morgan Sonderegger) have submitted a new paper using causal mediation...',
           description: "",
           section: "News",},{id: "news_fr-j-ai-le-plaisir-d-annoncer-que-j-ai-obtenu-un-lsa-general-institute-fellowship-et-que-je-participerai-à-l-institut-d-été-de-la-lsa-en-juillet-et-août-2025-à-eugene-en-oregon-mountain-bicyclist",
