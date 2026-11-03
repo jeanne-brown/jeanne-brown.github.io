@@ -154,6 +154,11 @@ collections:
   projects_fr:
     output: true
     permalink: /fr/projects/:path/
+  news_fr:
+    defaults:
+      layout: post
+    output: true
+    permalink: /fr/news/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
