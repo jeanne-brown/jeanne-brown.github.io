@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I successfully completed my 2nd comprehensive evaluation paper and am officially ABD!
-I have submitted my manuscript, [Disentangling acoustic and social biases in creaky voice perception: The effects of f0 and face gender on creakiness ratings](https://osf.io/preprints/psyarxiv/5j42b_v1) (joint with Meghan Clayards), for publication, and the preprint is now available. 
+J'ai réussi mon deuxième travail d'évaluation globale et je suis officiellement candidate au doctorat (ABD)!
+J'ai soumis mon manuscrit, [Disentangling acoustic and social biases in creaky voice perception: The effects of f0 and face gender on creakiness ratings](https://osf.io/preprints/psyarxiv/5j42b_v1) (en collaboration avec Meghan Clayards), pour publication, et la prépublication est maintenant disponible.
